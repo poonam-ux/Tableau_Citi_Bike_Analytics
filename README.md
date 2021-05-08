@@ -93,6 +93,8 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
     * Riders in the age group 25 - 41 took the total trips of more than 5000.
     * The data shows that the 51 and 52 year old riders took the highest number of trips.
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Analysis3.png)
+
 * How variable is the utilization by bike ID?
     * Most bikes are ridden for the duration of 500,000. Some bikes have durations of more than 2000K. The bike 
 
