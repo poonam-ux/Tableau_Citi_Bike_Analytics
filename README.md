@@ -128,7 +128,9 @@ Additionally, city officials would like to see the following visualizations:
 
 * Advanced: A dynamic map that shows how each station’s popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
-![]()
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/viz_map_popular_station_start.png)
+
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/viz_map_popular_station_end.png)
 
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
