@@ -29,6 +29,8 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 * What are the peak hours in which bikes are used during summer months?
     * 6pm and 7pm are the peak Starttime hours for summer months.
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Analysis2.png)
+
 * What are the peak hours in which bikes are used during winter months?
     * 1pm, 3pm, 4pm are the peak Starttime hours for winter months.
 
