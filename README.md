@@ -14,7 +14,7 @@ Using Tableau aggregate the data found in the Citi Bike Trip History Logs and fi
 
     * A 51 years old customer had the most number of trips, 44,020.
     * March 2021 has the biggest percent change in the ridership, 256.8%. This could be because of the warm spring months.
-    
+
 Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. Build a data dashboard, story or report. The following are some questions you will need to tackle.
 
 * How many trips have been recorded total during the chosen period?
