@@ -93,6 +93,8 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 * Today, what is the gender breakdown of active participants (Male v. Female)?
     * 49.32%  riders are male, while female riders are 20.97%. The 29.71% riders' gender is unknown.
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/gender_breakdown.png)
+
 * How does the average trip duration change by age?
     * Riders in 23 - 51 age group have an average trip duration between 825 - 2366.
     * 52 and 70 year old riders show the increase in the average trip duration.
