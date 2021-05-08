@@ -114,7 +114,7 @@ Use your visualizations (does not have to be all of them) to design a dashboard 
 
 The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
 
-![](![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Viz_age.png)
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Viz_age.png)
 
 Additionally, city officials would like to see the following visualizations:
 
