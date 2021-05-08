@@ -103,8 +103,6 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 
 ![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Analysis3.png)
 
-![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Viz_age.png)
-
 * How variable is the utilization by bike ID?
     * Most bikes are ridden for the duration of 500,000. Some bikes have durations of more than 2000K. The bike 
 
@@ -115,6 +113,8 @@ Use your visualizations (does not have to be all of them) to design a dashboard 
 ![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Viz_monthly_trips.png)
 
 The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
+
+![](![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Viz_age.png)
 
 Additionally, city officials would like to see the following visualizations:
 
