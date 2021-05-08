@@ -60,6 +60,8 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
     * JC Medical Center- 9162
     * Harborside- 8919
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Analysis_top_bottom_stations.png)
+
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why)
     * Oakland Ave- 1774
     * Glenwood Ave- 1583
