@@ -23,6 +23,8 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 * By what percentage has total ridership grown?
     * Ridership changed by -87.78% from July 2020 (nice summer days) to February 2021 (cold winter days). But it is going up since then, as the spring days are coming.
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Viz_monthly_trips.png)
+
 * How has the proportion of short-term customers and annual subscribers changed?
     * Customers have 145.52% change in total trips from July 2020 to April 2021 with a dip in the months of December and January. Subscribers, on the other hand have a huge dip of 96.37% in the total trips. This could be because of the COVID-19 Pandemic, or cold winter months.
 
