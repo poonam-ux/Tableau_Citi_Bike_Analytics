@@ -28,6 +28,8 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 * How has the proportion of short-term customers and annual subscribers changed?
     * Customers have 145.52% change in total trips from July 2020 to April 2021 with a dip in the months of December and January. Subscribers, on the other hand have a huge dip of 96.37% in the total trips. This could be because of the COVID-19 Pandemic, or cold winter months.
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/customers_vs_subscribers.png)
+
 * What are the peak hours in which bikes are used during summer months?
     * 6pm and 7pm are the peak Starttime hours for summer months.
 
