@@ -116,7 +116,7 @@ Additionally, city officials would like to see the following visualizations:
 
 * Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
-![]()
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/Analysis_map.png)
 
 * Advanced: A dynamic map that shows how each station’s popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
