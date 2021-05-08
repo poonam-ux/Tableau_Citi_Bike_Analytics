@@ -33,66 +33,66 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
     * 1pm, 3pm, 4pm are the peak Starttime hours for winter months.
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-    Groves St PATH - 16584 trips
-    Newport Pkwy- 16068
-    Liberty Light Rail- 12653
-    Hamilton Park- 10811
-    Marin Light Rail- 10760
-    Newport Path- 10446
-    Sip Ave- 10298
-    Columbus Dr at Exchange- 9040
-    JC Medical Center- 8976
-    Harborside- 8938
+    * Groves St PATH - 16584 trips
+    * Newport Pkwy- 16068
+    * Liberty Light Rail- 12653
+    * Hamilton Park- 10811
+    * Marin Light Rail- 10760
+    * Newport Path- 10446
+    * Sip Ave- 10298
+    * Columbus Dr at Exchange- 9040
+    * JC Medical Center- 8976
+    * Harborside- 8938
 
     The data shows the above stations had the most number of trips starting there.
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-    Groves St PATH - 18343 trips
-    Newport Pkwy- 16177
-    Liberty Light Rail- 12759
-    Hamilton Park- 11205
-    Marin Light Rail- 10785
-    Newport Path- 10645
-    Columbus Dr at Exchange- 9399
-    Sip Ave- 9169
-    JC Medical Center- 9162
-    Harborside- 8919
+    * Groves St PATH - 18343 trips
+    * Newport Pkwy- 16177
+    * Liberty Light Rail- 12759
+    * Hamilton Park- 11205
+    * Marin Light Rail- 10785
+    * Newport Path- 10645
+    * Columbus Dr at Exchange- 9399
+    * Sip Ave- 9169
+    * JC Medical Center- 9162
+    * Harborside- 8919
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why)
-    Oakland Ave- 1774
-    Glenwood Ave- 1583
-    Riverview Park- 1448
-    5 Corners Library- 1327
-    Christ Hospital- 1232
-    Dey St- 1196
-    Jackson Square- 1093
-    Union St- 1071
-    Leonard Gordon Park- 811
-    JCBS Depot- 1
+    * Oakland Ave- 1774
+    * Glenwood Ave- 1583
+    * Riverview Park- 1448
+    * 5 Corners Library- 1327
+    * Christ Hospital- 1232
+    * Dey St- 1196
+    * Jackson Square- 1093
+    * Union St- 1071
+    * Leonard Gordon Park- 811
+    * JCBS Depot- 1
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-    Central Park & 6 Ave- 1
-    Broadway & W 160 St- 1
-    Broadway & W 122 St- 1
-    Broadway & Battery Pl- 1
-    Barrow St & Hudson St- 1
-    Barclay St & Church St- 1
-    6 Ave & Broome St- 1
-    5 Ave & E 88 St- 1
-    1 Ave & E 5 St- 1
-    1 Ave & E 16 St- 1
+    * Central Park & 6 Ave- 1
+    * Broadway & W 160 St- 1
+    * Broadway & W 122 St- 1
+    * Broadway & Battery Pl- 1
+    * Barrow St & Hudson St- 1
+    * Barclay St & Church St- 1
+    * 6 Ave & Broome St- 1
+    * 5 Ave & E 88 St- 1
+    * 1 Ave & E 5 St- 1
+    * 1 Ave & E 16 St- 1
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
-    49.32%  riders are male, while female riders are 20.97%. The 29.71% riders' gender is unknown.
+    * 49.32%  riders are male, while female riders are 20.97%. The 29.71% riders' gender is unknown.
 
 * How does the average trip duration change by age?
-    Riders in 23 - 51 age group have an average trip duration between 825 - 2366.
-    52 and 70 year old riders show the increase in the average trip duration.
-    Riders in the age group 25 - 41 took the total trips of more than 5000.
-    The data shows that the 51 and 52 year old riders took the highest number of trips.
+    * Riders in 23 - 51 age group have an average trip duration between 825 - 2366.
+    * 52 and 70 year old riders show the increase in the average trip duration.
+    * Riders in the age group 25 - 41 took the total trips of more than 5000.
+    * The data shows that the 51 and 52 year old riders took the highest number of trips.
 
 * How variable is the utilization by bike ID?
-    Most bikes are ridden for the duration of 500,000. Some bikes have durations of more than 2000K. The bike 
+    * Most bikes are ridden for the duration of 500,000. Some bikes have durations of more than 2000K. The bike 
 
 Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
 
