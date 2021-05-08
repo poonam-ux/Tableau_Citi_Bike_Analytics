@@ -106,19 +106,11 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 * How variable is the utilization by bike ID?
     * Most bikes are ridden for the duration of 500,000. Some bikes have durations of more than 2000K. The bike 
 
+![](https://github.com/poonam-ux/Tableau_Citi_Bike_Analytics/blob/main/images/viz_bike_duration.png)
+
 Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
 
-![]()
-
-![]()
-
-![]()
-
-![]()
-
 The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
-
-![]()
 
 Additionally, city officials would like to see the following visualizations:
 
